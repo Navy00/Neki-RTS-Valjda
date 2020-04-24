@@ -1,0 +1,3 @@
+v0.1
+Objekti: Kamen,kapsula,kamera
+trenutno od funkcija: kretanje kamere, kretanje kapsule, ne dovrsena interakcija izmedju kamena i kapsule.
