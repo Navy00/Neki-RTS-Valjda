@@ -1,3 +1,8 @@
+v0,2
+"Kamen" je sada "Mine"
+Zavšena interakcija izmedju mine i kapsule tj "Civilian"
+kada se da zadatak "civilan" da skuplja gold iz "Mine" nosiće do "Storage" ostaviće resurse i vratit se nazad na posao
+ubačen je enum TaskList koji ima sve moguće zadatke koji unit može da ima.
 v0.1
 Objekti: Kamen,kapsula,kamera
 trenutno od funkcija: kretanje kamere, kretanje kapsule, ne dovrsena interakcija izmedju kamena i kapsule.
