@@ -1,3 +1,10 @@
+v0.3
+Ubačen je minimalan UI.
+Igrač može da vidi koliko zlata ima
+ako klikne na Unit-a može da vidi informacije o njemu
+sve iz ObjectInfo što je bilo do sad je prebačeno u novu skriptu Civilian
+ObjectInfo sad ima samo gomilu polja koja su će imati svi Uniti dok, 
+Civilian skripta ima info i akcije samo one koji su u vezi sa njim
 v0,2
 "Kamen" je sada "Mine"
 Zavšena interakcija izmedju mine i kapsule tj "Civilian"
